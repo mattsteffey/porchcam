@@ -12,7 +12,7 @@
     video.autoplay  = true;
     video.loop  = true;
     video.setAttribute("id", "videoOutput");
-    video.setAttribute("style", "display:none;");
+    video.setAttribute("style", "display:none;");got
     video.width = 320;
     video.height = 240;
 
